@@ -1,3 +1,5 @@
+## Link to frontend for project: https://github.com/bchelt/phase-3-project-frontend
+
 # Phase 3 Project Guidelines
 
 ## Learning Goals
